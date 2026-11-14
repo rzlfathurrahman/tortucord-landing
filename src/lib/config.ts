@@ -5,8 +5,8 @@ export const APP_CONFIG = {
   githubUrl: "https://github.com/rzlfathurrahman/tortucord",
   discordSupportUrl: "https://discord.gg/tortucord",
   patreonUrl: "https://patreon.com/rzlfathurrahman",
-  kofiUrl: "https://ko-fi.com/rzlfathurrahman",
-  saweriaUrl: "https://saweria.co/rzlfathurrahman",
+  kofiUrl: "https://ko-fi.com/zalon",
+  saweriaUrl: "https://saweria.co/zalon",
   docsUrl: "/docs",
   botInviteUrl: (guildId?: string) => {
     const clientId = process.env.NEXT_PUBLIC_DISCORD_CLIENT_ID || "";
